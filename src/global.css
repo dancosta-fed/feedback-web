@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  In case you want to use it here instead of in the html. Below is an example on 
+  how you should do.
+*/
+
+/* .button {
+  @apply bg-blue-500 m-2 px-4 h-10 rounded text-violet-100;
+} */
